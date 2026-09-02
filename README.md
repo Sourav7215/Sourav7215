@@ -67,6 +67,22 @@ Interactive Power BI dashboard analyzing Amazon sales across regions, item types
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sourav7215&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav7215&bg_color=ffffff&color=1f3864&line=c9a227&point=1f3864&hide_border=true" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sourav7215&label=Profile%20Views&color=1f3864&style=flat" />
 </p>
