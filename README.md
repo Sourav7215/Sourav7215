@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Sourav%20Patra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=58&descSize=18" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Excel+(Power+Query)+%7C+SQL+%7C+Power+BI;Always+learning%2C+always+building" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/sourav-patra-51a300298" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:patrasourav704@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="[https://github.com/Sourav7215/consumer-shopping-behavior-analysis](https://github.com/Sourav7215/consumer-shopping-behavior-analysis..git)" target="_blank"> <img src="https://img.shields.io/badge/Latest_Project-1F3864?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Sourav%20Patra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=58&descSize=18" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Excel+(Power+Query)+%7C+SQL+%7C+Power+BI;Always+learning%2C+always+building" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/sourav-patra-51a300298" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:patrasourav704@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis..git" target="_blank"> <img src="https://img.shields.io/badge/Latest_Project-1F3864?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ---
 
@@ -42,7 +42,7 @@
         <li>Implemented RFM customer segmentation and designed an interactive Power BI report[cite: 1].</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis"><strong>📂 GitHub Repo</strong></a> • 
+        <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis..git"><strong>📂 GitHub Repo</strong></a> • 
         <a href="https://lnkd.in/p/gSd526xk"><strong>📝 LinkedIn Writeup</strong></a>
       </p>
     </td>
