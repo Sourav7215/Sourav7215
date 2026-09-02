@@ -1,90 +1,109 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Sourav%20Patra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Excel%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=58&descSize=18" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Excel+(Power+Query)+%7C+SQL+%7C+Power+BI;Always+learning%2C+always+building" />
-</p>
+  <!-- Animated Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sourav+Patra+%F0%9F%91%8B;Data+Analyst+%7C+BI+Enthusiast;Transforming+Raw+Data+into+Insights" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sourav-patra-51a300298" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:patrasourav704@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Latest_Project-1F3864?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <p align="center">
+    <strong>Turning raw business data into decision-ready insights through SQL, Power BI, and Excel.</strong>
+  </p>
+
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sourav-patra-51a300298" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:patrasourav704@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 🧭 About Me
+### 👨‍💻 About Me
 
-- 📊 Data Analyst turning raw business data into clear, decision-ready insights
-- 🛠️ Currently working with **Excel (Power Query), SQL, and Power BI**
-- 🌱 Leveling up in **DAX** and advanced SQL (window functions, query optimization)
-- 📌 Recent project: **[Consumer Shopping Behavior Analysis](https://github.com/Sourav7215/consumer-shopping-behavior-analysis)** — an end-to-end retail analytics project
-- 💬 Open to Data Analyst opportunities — always happy to connect
-
----
-
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-2C2C2C?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-FFC300?style=for-the-badge&logo=microsoft&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- 📊 **Data Analyst** passionate about end-to-end analytics — from data ingestion and cleaning to star-schema modeling and interactive reporting[cite: 1].
+- 🛠️ Background in **operational auditing and reconciliation**, bringing an eagle-eyed approach to data validation, integrity, and quality[cite: 1].
+- 🔍 Skilled in writing complex **SQL queries** (joins, CTEs, window functions) and building dynamic **Power BI dashboards** with advanced DAX[cite: 1].
+- 📍 Based in **Jhargram, West Bengal, India**[cite: 1].
 
 ---
 
-### 📌 Featured Projects
+### 🛠️ Tech Stack & Tools
+
+<div align="left">
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Data Cleaning & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-008080?style=flat-square&logo=microsoft&logoColor=white) |
+| **Databases & Querying** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Core Competencies** | Data Modeling (Star Schema) • DAX • KPI Dashboards • RFM Segmentation • Trend Analysis • ETL[cite: 1] |
+
+</div>
+
+---
+
+### 🚀 Featured Analytics Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[📊 Consumer Shopping Behavior Analysis](https://github.com/Sourav7215/consumer-shopping-behavior-analysis)**
-End-to-end retail analytics project — Power Query cleaning, 11 SQL business questions, and an interactive Power BI dashboard, backed by a full written report of findings and recommendations.
-`Excel` `SQL` `Power BI`
-
-</td>
-<td width="50%" valign="top">
-
-**[🛒 Amazon Sales Dashboard](https://github.com/Sourav7215/Analyzing-Amazon-Sales-data)**
-Interactive Power BI dashboard analyzing Amazon sales across regions, item types, and time — built during the PW Skills Data Analytics Internship.
-`Power BI` `DAX` `Power Query`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Consumer Shopping Behavior Analysis</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/End--to--End-Project-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tools-SQL%20|%20Power%20BI%20|%20Excel-orange?style=flat-square" />
+      </p>
+      <ul>
+        <li>Analyzed ~3,900 retail transactions end-to-end to identify customer spending patterns and loyalty trends[cite: 1].</li>
+        <li>Modeled data into a clean 5-table star schema using Power Query and answered 11 core business problems via SQL CTEs & window functions[cite: 1].</li>
+        <li>Engineered RFM customer segmentation and built dynamic Power BI dashboards with drill-downs[cite: 1].</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis."><strong>📂 GitHub Repo</strong></a> • 
+        <a href="https://lnkd.in/p/gSd526xk"><strong>📝 LinkedIn Writeup</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Amazon Sales Performance Dashboard</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/BI-Dashboard-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tools-Power%20BI%20|%20DAX%20|%20ETL-green?style=flat-square" />
+      </p>
+      <ul>
+        <li>Designed an interactive executive dashboard covering end-to-end ETL processing from raw sales transactions[cite: 1].</li>
+        <li>Constructed tailored DAX measures for Revenue, Profit margins, and Units Sold breakdowns across regions[cite: 1].</li>
+        <li>Delivered comprehensive technical documentation including architecture diagrams and data model schema[cite: 1].</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Sourav7215/Analyzing-Amazon-Sales-data.git/"><strong>📂 GitHub Repo</strong></a> • 
+        <a href="https://lnkd.in/p/g93yfJmy"><strong>📝 LinkedIn Writeup</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourav7215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sourav's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav7215&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sourav7215&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav7215&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+### 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav7215&bg_color=ffffff&color=1f3864&line=c9a227&point=1f3864&hide_border=true" />
+  <a href="https://www.linkedin.com/in/sourav-patra-51a300298"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:patrasourav704@gmail.com"><img src="https://img.shields.io/badge/Email-patrasourav704@gmail.com-red?style=flat&logo=gmail" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sourav7215&label=Profile%20Views&color=1f3864&style=flat" />
-</p>
-
-<p align="center"><em>Thanks for stopping by — let's connect! 🤝</em></p>
