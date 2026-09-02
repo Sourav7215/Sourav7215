@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Excel+(Power+Query)+%7C+SQL+%7C+Power+BI;Always+learning%2C+always+building" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Excel+(Power+Query)+%7C+SQL+%7C+Power+BI;Always+learning%2C+always+building" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-2C2C2C?style=for-the-badge&logo=powers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-2C2C2C?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/DAX-FFC300?style=for-the-badge&logo=microsoft&logoColor=black" />
@@ -71,7 +71,7 @@ Interactive Power BI dashboard analyzing Amazon sales across regions, item types
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sourav7215&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav7215&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Sourav7215&theme=default&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
