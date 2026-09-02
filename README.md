@@ -70,12 +70,7 @@ Interactive Power BI dashboard analyzing Amazon sales across regions, item types
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourav7215&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=Sourav7215&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav7215&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
