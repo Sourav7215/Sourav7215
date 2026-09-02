@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Animated Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sourav+Patra+%F0%9F%91%8B;Data+Analyst+%7C+BI+Enthusiast;Transforming+Raw+Data+into+Insights" alt="Typing SVG" />
   </a>
@@ -9,7 +8,6 @@
     <strong>Turning raw business data into decision-ready insights through SQL, Power BI, and Excel.</strong>
   </p>
 
-  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/sourav-patra-51a300298" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,9 +23,9 @@
 
 ### 👨‍💻 About Me
 
-- 📊 **Data Analyst** passionate about end-to-end analytics — from data ingestion and cleaning to star-schema modeling and interactive reporting[cite: 1].
-- 🛠️ Background in **operational auditing and reconciliation**, bringing an eagle-eyed approach to data validation, integrity, and quality[cite: 1].
-- 🔍 Skilled in writing complex **SQL queries** (joins, CTEs, window functions) and building dynamic **Power BI dashboards** with advanced DAX[cite: 1].
+- 📊 **Data Analyst** passionate about end-to-end analytics — from data cleaning and star-schema modeling to interactive reporting[cite: 1].
+- 🛠️ Background in **operational auditing and reconciliation**, bringing strict attention to data integrity and validation[cite: 1].
+- 🔍 Skilled in structured **SQL queries** (joins, CTEs, window functions) and building dynamic **Power BI dashboards** with DAX[cite: 1].
 - 📍 Based in **Jhargram, West Bengal, India**[cite: 1].
 
 ---
@@ -58,12 +56,12 @@
         <img src="https://img.shields.io/badge/Tools-SQL%20|%20Power%20BI%20|%20Excel-orange?style=flat-square" />
       </p>
       <ul>
-        <li>Analyzed ~3,900 retail transactions end-to-end to identify customer spending patterns and loyalty trends[cite: 1].</li>
-        <li>Modeled data into a clean 5-table star schema using Power Query and answered 11 core business problems via SQL CTEs & window functions[cite: 1].</li>
-        <li>Engineered RFM customer segmentation and built dynamic Power BI dashboards with drill-downs[cite: 1].</li>
+        <li>Analyzed ~3,900 retail transactions to detect spending patterns and loyalty behaviors[cite: 1].</li>
+        <li>Modeled data into a 5-table star schema and solved 11 business problems using SQL CTEs & window functions[cite: 1].</li>
+        <li>Implemented RFM customer segmentation and designed an interactive Power BI report[cite: 1].</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis."><strong>📂 GitHub Repo</strong></a> • 
+        <a href="https://github.com/Sourav7215/consumer-shopping-behavior-analysis"><strong>📂 GitHub Repo</strong></a> • 
         <a href="https://lnkd.in/p/gSd526xk"><strong>📝 LinkedIn Writeup</strong></a>
       </p>
     </td>
@@ -74,12 +72,12 @@
         <img src="https://img.shields.io/badge/Tools-Power%20BI%20|%20DAX%20|%20ETL-green?style=flat-square" />
       </p>
       <ul>
-        <li>Designed an interactive executive dashboard covering end-to-end ETL processing from raw sales transactions[cite: 1].</li>
-        <li>Constructed tailored DAX measures for Revenue, Profit margins, and Units Sold breakdowns across regions[cite: 1].</li>
-        <li>Delivered comprehensive technical documentation including architecture diagrams and data model schema[cite: 1].</li>
+        <li>Constructed an end-to-end sales analytics dashboard covering extraction, transformation, and DAX modeling[cite: 1].</li>
+        <li>Developed custom KPIs for regional sales, product margins, and revenue growth[cite: 1].</li>
+        <li>Provided full data architecture and schema design documentation[cite: 1].</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Sourav7215/Analyzing-Amazon-Sales-data.git/"><strong>📂 GitHub Repo</strong></a> • 
+        <a href="https://github.com/Sourav7215/Analyzing-Amazon-Sales-data"><strong>📂 GitHub Repo</strong></a> • 
         <a href="https://lnkd.in/p/g93yfJmy"><strong>📝 LinkedIn Writeup</strong></a>
       </p>
     </td>
